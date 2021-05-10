@@ -37,7 +37,7 @@
     "hbs": "^4.0.4",
     "http": "0.0.0",
     "jsonwebtoken": "^8.3.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "mongoose": "^5.4.4",
     "nodemailer": "^5.1.1",
     "reload": "^3.0.1"
