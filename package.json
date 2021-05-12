@@ -39,7 +39,7 @@
     "jsonwebtoken": "^8.3.0",
     "lodash": "^4.17.15",
     "mongoose": "^5.4.4",
-    "nodemailer": "^5.1.1",
+    "nodemailer": "^6.4.16",
     "reload": "^3.0.1"
   },
   "devDependencies": {
